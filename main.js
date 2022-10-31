@@ -1,0 +1,45 @@
+let h = 'hello';
+console.log(h);
+let o='owu';
+console.log(o);
+let c='com';
+console.log(c);
+let u='ua';
+console.log(u);
+let n=1;
+console.log(n);
+let t=10;
+console.log(t);
+let min=-999;
+console.log(min);
+let ot=123;
+console.log(ot);
+const PI=3.14;
+console.log(PI);
+let tt=2.7;
+console.log(tt);
+let s=16;
+console.log(s);
+let b=1===2;
+console.log(b);
+let y=2+1===3;
+console.log(y);
+
+let fN='Anastasia';
+ let mN='Andriivna';
+ let lN='Pavliv';
+console.log(`${fN} ${mN} ${lN}`);
+
+let a = 100;
+let x = '100';
+let q = true;
+console.log(typeof a);
+console.log(typeof x);
+console.log(typeof q);
+
+let name=prompt('Ваше ім’я', "Nastia");
+alert(`'Ваше ім’я - ${name}'`);
+let sN=prompt('Ваше прізвище', "Pavliv");
+alert(`'Ваше прізвище - ${sN}'`);
+let age = prompt('Скільки вам років?', 19);
+alert(`Вам ${age} років!`);
